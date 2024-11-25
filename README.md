@@ -11,6 +11,13 @@ This platform is designed to simulate a real-world online shopping experience, f
 HTML, CSS, JavaScript[React.js + Vite.js]
 Git, GitHub, Visual Studio Code
 
+
+Currently, two official plugins are available:
+
+
+@vitejs/plugin-react uses Babel for Fast Refresh
+@vitejs/plugin-react-swc uses SWC for Fast Refresh
+
 # Webpages and various functionalities:
 ## Login and Sign Up page
 ![WhatsApp Image 2024-11-25 at 00 50 47_4d7b4245](https://github.com/user-attachments/assets/e5460fcf-becd-4088-97c8-b67d7203e830)
